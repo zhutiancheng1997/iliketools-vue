@@ -1,0 +1,57 @@
+*{
+    font-family: "è‹¹æ–¹";
+}
+body{
+    background-color: rgb(237,237,237);
+}
+.home{
+    max-width: 800px;
+    min-height:300px;
+    display: block;
+    margin:15px auto;
+}
+.kui{
+    padding: 10px 25px;
+    border-radius:15px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #3e4449;
+    background-color: #FFFFFFFF;
+}
+a {
+    text-decoration: none; /* åŽ»é™¤é»˜è®¤çš„ä¸‹åˆ’çº¿ */
+    outline: none;	/* åŽ»é™¤æ—§ç‰ˆæµè§ˆå™¨çš„ç‚¹å‡»åŽçš„å¤–è™šçº¿æ¡† */
+    color: #5094d5;	/* åŽ»é™¤é»˜è®¤çš„é¢œè‰²å’Œç‚¹å‡»åŽå˜åŒ–çš„é¢œè‰² */
+}
+.title{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 500;
+    color: #6c757d;
+}
+.app{
+    display: inline-block;
+    width: 25%;
+    margin-bottom: 10px;
+}
+.app-title{
+    text-align: center;
+    margin: 8px auto;
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+}
+.app-img{
+    width: 40%;
+    max-width: 100px;
+    border: 1px solid #FFFFFFFF;
+    border-radius: 10px;
+    clear: both;
+    display: block;
+    margin: auto;
+}
+.m-img{
+    width: 95%;
+    max-width: 330px;
+    max-height: 330px
+}
